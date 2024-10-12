@@ -1,2 +1,2 @@
 # FrontendDominationJsAllPartsForRevision
-Revision javascript
+
