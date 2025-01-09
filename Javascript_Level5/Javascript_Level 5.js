@@ -15,7 +15,7 @@
 
 
 //arrays
-//array matlb jab bhi aaapko ek ya ek se jaada value ek saah rakhni ho to ham arrays use karte hian
+//array matlb jab bhi aaapko ek ya ek se jaada value ek saah rakhni ho to ham arrays use karte hain
 var arr = ["kaif", "aman", "sharaddha", "afzal"];
 console.log(arr[3]);
 
@@ -45,6 +45,6 @@ console.log(obj);
 
 // synchronous and asynchrounous
 //sychrounous code mein code humesha line by line chalta hai and async
-// code line by line nahi chalta ,saare asynch code ek saath shuru kar diya jaata hai and jo pahle complete hojaaye uska answer dediya jaata hai
+// code line by line nahi chalta hai,saare async code ek saath shuru kar diya jaata hai and jo pahle complete hojaaye uska answer dediya jaata hai
 
 //synchronous ko mainStack bhi kahte hain aur asynchrounous ko sideStack bhi kahte hain
