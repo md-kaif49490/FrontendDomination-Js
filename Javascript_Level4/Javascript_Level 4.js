@@ -1,10 +1,10 @@
 //functions
 
-//es5 es6
+//es5 and es6
 
 //es5- function statement , function expressions, anonymous function
 
-//es6- fat arrow function but teen tariko se likha ja sakta hia 
+//es6- fat arrow function but teen tariko se likha ja sakta hai
 //a) basic fat arrow
 //b) fat arrow with one parameter
 //c) fat arrow with implicit return
