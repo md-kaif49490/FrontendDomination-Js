@@ -1,18 +1,18 @@
-//Types matlab data ka roop
+//Data Types matlab data ka form
 //example :- name, dob, score, yes/no etc
 // 12 - integer
 // 12.3 - float 
 // true - Boolean
 // a - character 
 
-// Types hote hai 2 tarah ke 
+// Data Types hote hai 2 tarah ke 
 // primitive dataTypes , refrecnce dataTypes
 
 // [] {} () its called refrence datatypes
 // 12, 12.4 , harsh, true, a , null, undefined its called primitive dataTypes
 
 
-//Conditionals == if, else, else-if, ternaryOperator, switch
+//Conditionals == ,if, else, else-if, ternaryOperator, switch
 
 //jab bhi aapko program mein decision lena ho, ki aage ka excution kaisa ho to waha par if else else-if use hota hai
 
@@ -49,6 +49,7 @@ console.log("first conditons");
 // for(start; end; change){
 //     //Syntax of forLoop
 // }
+
 var num = 5;
 for(num ; num<10 ; num++){
     console.log(num);
