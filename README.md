@@ -18,6 +18,7 @@
 
 ✅ Event Handling (Click, Hover, Input)
 
-🙋‍♂️ About Me
-Made with ❤️ by @md-kaif49490
+## 🙋‍♂️ About Me
+
+Made with ❤️ by [@md-kaif49490](https://github.com/md-kaif49490)  
 Feel free to explore, learn, and suggest improvements!
